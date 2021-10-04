@@ -50,7 +50,7 @@ a:hover {
 /* HEADER */
 .banner {
   height: 100vh;
-  background-image: url("../images/mobile/image-header.jpg");
+  background-image: url("https://github.com/leticiacristinaa/sunnyside-agency-landing-page/blob/main/images/mobile/image-header.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -197,12 +197,12 @@ a:hover {
 }
 
 .bg-cherry {
-  background-image: url("./images/mobile/image-graphic-design.jpg");
+  background-image: url("https://github.com/leticiacristinaa/sunnyside-agency-landing-page/blob/main/images/mobile/image-graphic-design.jpg");
   position: relative;
 }
 
 .bg-orange {
-  background-image: url("./images/mobile/image-photography.jpg");
+  background-image: url("https://github.com/leticiacristinaa/sunnyside-agency-landing-page/blob/main/images/mobile/image-photography.jpg");
   position: relative;
 }
 
@@ -301,11 +301,11 @@ a:hover {
   }
 
   .bg-cherry {
-    background-image: url("./images/desktop/image-graphic-design.jpg");
+    background-image: url("https://github.com/leticiacristinaa/sunnyside-agency-landing-page/blob/main/images/desktop/image-graphic-design.jpg");
   }
 
   .bg-orange {
-    background-image: url("./images/desktop/image-photography.jpg");
+    background-image: url("https://github.com/leticiacristinaa/sunnyside-agency-landing-page/blob/main/images/desktop/image-photography.jpg");
   }
 
   .client {
@@ -324,7 +324,7 @@ a:hover {
 }
 @media (min-width: 768px) {
   .banner {
-    background-image: url("./images/desktop/image-header.jpg");
+    background-image: url("https://github.com/leticiacristinaa/sunnyside-agency-landing-page/blob/main/images/desktop/image-header.jpg");
   }
 
   .header .arrow {
