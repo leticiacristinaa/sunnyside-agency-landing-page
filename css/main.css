@@ -50,7 +50,7 @@ a:hover {
 /* HEADER */
 .banner {
   height: 100vh;
-  background-image: url("./images/mobile/image-header.jpg");
+  background-image: url("../images/mobile/image-header.jpg");
   background-size: cover;
   background-position: center;
 }
